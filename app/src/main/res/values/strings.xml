@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">TestGitHub</string>
-    <string name="welcome_text">Wellcome to Android</string>
+    <string name="welcome_text">Welcome to Android</string>
 </resources>
