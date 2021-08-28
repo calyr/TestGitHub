@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">TestGitHub</string>
     <string name="welcome_text">Wellcome to Android</string>
+    <string name="quantity_text_view">QUANTITY</string>
+    <string name="quantity_value_text_view">%s</string>
+    <string name="price_text_view">PRICE</string>
+    <string name="order_button_text">ORDER</string>
+    <string name="plus_button">+</string>
+    <string name="less_button">-</string>
+    <string name="price_value_text_view">$ %s</string>
 </resources>
